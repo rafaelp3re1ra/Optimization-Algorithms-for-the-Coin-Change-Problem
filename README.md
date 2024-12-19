@@ -80,11 +80,11 @@ The project explores three main approaches:
 
 2. In the main directory, run the following command to compile the project:
 
-   ```bash
+   ```
 
    make
 
-
+   ```
 
 3. After compilation, run the program:
 
